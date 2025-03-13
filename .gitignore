@@ -172,3 +172,34 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# Don't allow images to be pushed in github repo
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.bmp
+*.tif
+*.tiff
+*.webp
+*.heif
+*.heic
+*.ico
+*.raw
+*.cr2
+*.nef
+*.arw
+*.orf
+*.dng
+*.pgm
+*.pcx
+*.xpm
+*.svg
+*.eps
+*.pdf
+*.ai
+*.wmf
+*.emf
+*.stl
+*.obj
+*.fbx
